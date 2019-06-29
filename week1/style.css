@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+}
+
+.card {
+  padding: 10px;
+  border: 1px solid;
+  margin: 10px;
+}
